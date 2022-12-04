@@ -2,7 +2,7 @@
 
 We are using https://fakerestapi.azurewebsites.net/index.html for tests
 
-![](http://i.imgur.com/OUkLi.gif)
+![](https://gifyu.com/image/Sh1w6)
 
 There are 4 main types of Performance Tests:
 
