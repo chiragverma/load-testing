@@ -4,7 +4,7 @@ We are using https://fakerestapi.azurewebsites.net/index.html for tests
 
 ![](https://media.giphy.com/media/dw669JjE3Fhb3eC0Le/giphy.gif)
 
-<img src="https://media.giphy.com/media/dw669JjE3Fhb3eC0Le/giphy.gif" width="500" height="500"/>
+<img src="https://media.giphy.com/media/dw669JjE3Fhb3eC0Le/giphy.gif" width="1000" height="250"/>
 
 There are 4 main types of Performance Tests:
 
